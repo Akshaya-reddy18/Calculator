@@ -31,25 +31,3 @@ streamlit run src/app.py
 2. Enter the required numbers
 3. Click the "Calculate" button to see the result
 4. View your calculation history below the result
-
-## PowerPoint Presentation Prompts
-
-1. Introduction to Calculator App
-   - Title: "Building a Modern Calculator with Streamlit"
-   - Key points: Project overview, features, technology stack
-
-2. User Interface Design
-   - Title: "User Interface and Experience"
-   - Key points: Layout, components, user interaction flow
-
-3. Technical Implementation
-   - Title: "Technical Architecture and Implementation"
-   - Key points: Code structure, functions, error handling
-
-4. Features and Functionality
-   - Title: "Calculator Features and Operations"
-   - Key points: Basic operations, advanced operations, calculation history
-
-5. Future Enhancements
-   - Title: "Future Improvements and Extensions"
-   - Key points: Potential features, scalability, user feedback 
